@@ -1,0 +1,97 @@
+Crispy Tanlines
+	Introduction
+		Crispy Tanlines is a puzzle game about preventing a sunbathing girl from getting sunburned
+	inspiration
+		its a very literal interpretation of the theme Shadows and alchemy,
+		since one steers an umbrelly and mixes random stuff to create sunscreen
+	Player Exoerience
+		use Mouse Readjust a Sun umbrella which gets thrown over by wind frequently
+		find random objects on the beach to mix and use as sunscreen.
+		sunscreen and umbrella act as shield and protect the health bar from dropping
+		after 6 minutes the round is over and when there is health left you succeeded
+		if the health drops low before 6 minutes, the girl gets a sunburn and you lose
+		the score is the leftover health
+	Platform:
+		the game is developed for web
+	Development Software
+		Godot 3.5
+		Photoshot, Clip Studio Paint ,Affinity Designer, Blender
+		Visual Studio Code/Jetbrains Rider
+		Audiacity
+	Genre
+		Singleplayer,Puzzle,casual
+	Target Audience
+		Casual Gamers
+Concept
+	Gameplay Overview
+		The Player Views the beach from towp with the Sunbathing Girl in the center,
+		The player can readjust a Sun Umbrella (grab -> place -> Adjust)
+		The player can grad items/creatures from the beac, which get stored in 8 item slots on the right
+		3 items from the slots can be selected to create sun lotion from
+		sun lotion can be sprayed on the girl for extra protection, and depending on quality
+		shields from sun or makes is worse
+		a spray bottle lasts 30 seconds, and then new sunscreen has to be mixed
+	Theme Interpretation(Shadows and Alchemy)
+		the umbrella creates the shadow so you can control the shadow
+		and the sunscreen represents the alchemy, since its mixed from random ingredients and
+		a good mixture is found by trail and error
+	Primary Mechanics
+		Umbrella
+			the umbrella provides 60% of protection, when fully shadowing the girl
+			but it gets knocked around alot by wind, so it has to be readjusted, or can be lost , 
+			as it can leave the playfield but the player can not
+		Ingredients
+			random creatures and plants commonfly found at beaches can be picked up
+			for example:
+			crabs, shells, sand, sea urchin, sea star, seaweed, 
+		mixing
+			mark 3 collected items and click on the blender in the bottom which creates a spray bottle
+		spraying
+			grab spraybottle and click on girl and effect is applied, the effect lasts 5 seconds
+		discarding
+			right click discards the spray bottle, bad sunscreen should be discarded, also the umbrella
+			can not be adjusted with spray bottle in hand, so you have to get a free hand to adjusted
+		health bar
+			the healt bar shrinks constantly except for when perfect sun protection is applied
+			the amount of shrinkage depends on the protection, so a sunburn comes after 2 minutes without protection
+			and after 4 minutes with just umbrella
+		Design
+			Plainted Backgrounds and Hand drawn (digital painting) Anime girl and creatures, the umbrella is 3d
+		Audio
+			Music
+				lofi music loops that fit the beach theme
+			sfx
+				sound effects for grabbing, blending, as one would expect from a point and click adventure
+				the girl makes unpleased noises when she is in direct sounds (like eww or something)
+				the girl screeches when sunburnt
+		Controls
+			Mouse 
+				click to grab rigth click to discarded
+Development Timeline:
+Design Document	Finished July 18
+Background Start Menu
+Background Play Field
+Background Game over
+Background Win
+
+Design Girl
+Second Animation Frame Girl
+Design Sunburnt Girl
+Design Creatures
+Design UI
+
+Decice and design items and their benefits
+Item Behaviour 
+
+Code Menu
+Code Main Game
+	Umbrella Mechanics
+	Check if Girl is shadowed
+	Pickup system for creatures
+Code Game Over
+Code Success
+Code Credits screen
+
+build  for web
+
+		
