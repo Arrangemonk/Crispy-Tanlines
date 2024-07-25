@@ -1,0 +1,10 @@
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\bin\ExportDebug\CrispTanlines.dll
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\bin\ExportDebug\CrispTanlines.pdb
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\obj\ExportDebug\CrispTanlines.csproj.AssemblyReference.cache
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\obj\ExportDebug\CrispTanlines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\obj\ExportDebug\CrispTanlines.AssemblyInfoInputs.cache
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\obj\ExportDebug\CrispTanlines.AssemblyInfo.cs
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\obj\ExportDebug\CrispTanlines.csproj.CoreCompileInputs.cache
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\obj\ExportDebug\CrispTanlines.sourcelink.json
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\obj\ExportDebug\CrispTanlines.dll
+C:\Users\kfran\Documents\Crispy-Tanlines\.mono\temp\obj\ExportDebug\CrispTanlines.pdb
