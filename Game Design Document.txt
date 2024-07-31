@@ -68,28 +68,28 @@ Concept
 			Mouse 
 				click to grab rigth click to discarded
 Development Timeline:
-Design Document	Finished July 18
-Background Start Menu DONE
-Background Play Field DONE
-Background Game over 
-Background Win DONE
+Design Document	DONE July 18
+Background Start Menu DONE July 29
+Background Play Field DONE July 27
+Background Game over DONE July 31
+Background Win DONE July 31
 
 Design Girl DONE
 Second Animation Frame Girl
-Design Sunburnt Girl 
+Design Sunburnt Girl DONE July 31
 Design Creatures
-Design UI
+Design UI -> HALFASSED!!! July 31
 
 Decice and design items and their benefits
 Item Behaviour 
 
 Code Menu DONE
-Code Main Game
-	Umbrella Mechanics DONE
-	Check if Girl is shadowed
+Code Main Game DONE!!!
+	Umbrella Mechanics DONE 
+	Check if Girl is shadowed DONE (LAST MINUTE YAY) July 31
 	Pickup system for creatures
-Code Game Over 
-Code Success
+Code Game Over  DONE
+Code Success DONE
 Code Credits screen DOne
 
 build  for web
